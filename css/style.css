@@ -1,0 +1,36 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.add {
+	width: 150px;
+	margin: 20px;
+	text-align: center;
+	padding: 50px;
+	border: 1px solid #0b8791;
+	margin: 20px;
+	float: left;
+	background: rgba(209, 45, 196, 0.6);
+
+}
+
+.add p {
+	font-size: 30px;
+}
+
+.add h1 {
+	width: 100px;
+	height: 50px;
+	border: 3px solid #81c1dd;
+	margin: 10px auto;
+	text-align: center;
+	color: #fff;
+}
+
+.add button {
+	width: 40px;
+	line-height: 40px;
+	background: pink;
+	font-size: 20px;
+}
